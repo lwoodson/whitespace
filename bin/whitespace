@@ -6,6 +6,7 @@
 # Also:
 # - converts tabs to spaces
 # - ensures a single newline at the end
+This isa  test.
 FILE_TYPES = "rb|js|haml|html|css|sass|coffee|m|h"
 
 class WhitespaceProcessor
